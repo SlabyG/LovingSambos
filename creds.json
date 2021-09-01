@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lovingsambos",
+  "private_key_id": "e912f12b5c6689c3770bfb46eee4997f3a5a5dc3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCm/JPm1Cj6ttBW\nj4a85f09pefTjMBOWQ+wjwHb6Gn2//KuITtQAvf9ca3eoG9+BVOfjrFgrnTEw7SF\nhVqWxv0PdI51BjDehpq0oCpYnVrTwzl7BmWsBF5ws2jtoaXXW7GfbMDIQ6Vzz0ec\nIq4G4X+XHb8kp08ZBL0nsy2GlD7KVu4gf5tzqKEURxpEb//JtdkyMgA+9KDCJ2I+\nhn4bi6MGHXPAWBx6mWedWdUDH9odGL/3Auoy0uslvUXsq9Gh1qp390P60/18XeKZ\n5ChXMJv0IPq7O19j6SzcbF2mszJOeyfA2xmAPsXyvJDKktsgRVdPeSKwbmqEaqg+\n+BA9gw9PAgMBAAECggEAEc87Fab9CThO4gcuufOBiH4ASqS8Ad8nzY8tsJQ0xlN9\nQNW/K1prCTctnGKEtu5p1nOejA7Z2f58FggnUDtq0/zSEL3B9TRqnZG+J8ioiOX3\nucebN7cY53DgY6/A2Jt+nIqPHmIbQaMSzR6PFvbH592+pscdUtrEMyQTWpjHAEdh\npilnNAhFT0aWZ8QjGmLNFnJB+cOwugjFnnM3JvbN9TjUGd4HAepFqKzhK/562hwI\n8W/KfKQn0+0+5X6rejaQJFto7n0bh565QyImcZCKZUBR8avCtFDc8vU79jwa1Sjq\nYjktpvsmcnmVmJFxXxS3AWswUu+NOMn54inpYgemiQKBgQDe3QuCYRkbvNPv/AdU\nrt5ccukjcXUlo7niC45OwAQEgX2D3o7qmNjHNb01bg/cQNJevjtHfElnLIHvAJcp\n2Yi2iX9JSaO/xqX0I4pKKifEVQXD4fydMSNM1V770LsfmGps3mqdXHwS72Fc/x86\nPi4qbNA7dsLAAddZz6SLDht4WwKBgQC/0KrT1ZkzrvCSAWimFIiRARaGDF8r5VKR\nvy2M+loJGOegLw+eON/Pe42QTUbsXlYQ1gK3Hzz2mJxtkPXLF/zmW8zLGEzLykSw\nBWUm3RHHxTHtV3Fo/O/mNiudBISBRhxFhObWsk1PozBSz5nkYIGhWX18rVnEA2qq\nAXUPt5bXHQJ/SEFieeMBQPz3udb8iXgon9ChxdwDHzD2E1Orz9xxcQSKrTZ7H5Ru\ntCe4MJp+iep6Sj1i+spRAiJr/hEy8V6V9JifrCMz8/lz1LOxIlqIih8Gv3uFa3GD\nAGYtZXdHM/c2ihWSe3KAx6LU7lHIzhla3mZpHN5kRdxS9ctcjbkFLwKBgAwUON20\nIryldJLNMejbfCoddmyklM2v2D5DWrv4+/h8sAFfVU1yaW2oaya+Jww1eJgA0hT0\nC6O/woIH0eKjNRLQjxnvAs8GgsLO5CrJWxhIa7d1fTfOTdEiciamJS3620bpcpvs\niH/OV/mvBxLhnOgrOYLDa9azHGFuTA/cUMxlAoGAa63xndRpUP5rMytvF7YMmHwZ\ncP0d0ezHPdfZkSaWmPNrM4YNR9MKkdmdZmHx3AkVem75F3fMJ2mpICuLCkPhvmUW\nFAwjkmxFqBP+4Sn1BcH/yT5Z4iX2nGSpHs2rYZmgcZNpMK5keHQLi+vSRa8wojjP\nlQnn0IzjDYBfQar+7z0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lovingsambos@lovingsambos.iam.gserviceaccount.com",
+  "client_id": "115566738063859239399",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lovingsambos%40lovingsambos.iam.gserviceaccount.com"
+}
